@@ -1,44 +1,18 @@
-### Hi there, I'm Eduardo 👋
+<h2 align="center">Hi there, I'm Eduardo 👋</h2>
 
-![](https://komarev.com/ghpvc/?username=emgaspar)
+- 🚀 I use daily:
+  ![Ada](https://img.shields.io/badge/Ada-2012-blue?style=plastic)
+  ![C](https://img.shields.io/badge/-C-00599C?style=plastic&logo=C)
+  ![C++](https://img.shields.io/badge/-C++-00599C?style=plastic&logo=cplusplus)
+  ![Python](https://img.shields.io/badge/-Python-blasck?style=plastic&logo=Python)
+  ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
+  ![Neovim](https://img.shields.io/badge/-Neovim-black?style=plastic&logo=Neovim)
+  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
+- 💻 I work using:
+  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
+  ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab)
+- 🌱 I’m currently learning all about ![Rust](https://img.shields.io/badge/Rust-000000?style=plastic&logo=rust) and Real Time Operating Systems (RTOS)
+- 🔭 I’m currently working on a tiny RTOS for ![STM32F429](https://img.shields.io/badge/-STM32F429-3b2e5a?style=plastic&logo=STMicroelectronics)
 
-<p align="left">
-  <img src=https://github-readme-stats.vercel.app/api?username=emgaspar&show_icons=true&theme=tokyonight&count_private=true />
-</p>
-
-### 🚧 I build with
-
-<!-- [![Ada](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://www.adaic.org/) -->
-[![Ada](images/Ada.png)](https://www.adaic.org/)
-[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
-[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-
-### 🔭 I’m currently working on
-
-- Basic RTOS for STM32F429 microcontroller
-
-### 🌱 I’m currently learning
-
-- Rust language
-- Real Time Operating Systems (RTOS)
-
-<!--
-**emgaspar/emgaspar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-### Other places
-
-[![Github](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white)](https://github.com/emgaspar)
-[![Gitlab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/emgaspar)
+![emgaspar's github stats](https://github-readme-stats.vercel.app/api?username=emgaspar&theme=tokyonight&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emgaspar&theme=tokyonight)
