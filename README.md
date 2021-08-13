@@ -1,18 +1,22 @@
-<h2 align="center">Hi there, I'm Eduardo 👋</h2>
+```bash
+emgaspar@github:~$ ./welcome.sh
+```
 
-- 🚀 I use daily:
-  ![Ada](https://img.shields.io/badge/Ada-2012-blue?style=plastic)
-  ![C](https://img.shields.io/badge/-C-00599C?style=plastic&logo=C)
-  ![C++](https://img.shields.io/badge/-C++-00599C?style=plastic&logo=cplusplus)
-  ![Python](https://img.shields.io/badge/-Python-blasck?style=plastic&logo=Python)
-  ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
-  ![Neovim](https://img.shields.io/badge/-Neovim-black?style=plastic&logo=Neovim)
-  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
-- 💻 I work using:
-  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
-  ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab)
-- 🌱 I’m currently learning all about ![Rust](https://img.shields.io/badge/Rust-000000?style=plastic&logo=rust) and Real Time Operating Systems (RTOS)
-- 🔭 I’m currently working on a tiny RTOS for ![STM32F429](https://img.shields.io/badge/-STM32F429-3b2e5a?style=plastic&logo=STMicroelectronics)
+img align="left" src="images/computer.jpg" alt="computer" width="320" />
 
-![emgaspar's github stats](https://github-readme-stats.vercel.app/api?username=emgaspar&theme=tokyonight&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emgaspar&theme=tokyonight)
+```
+emgaspar@github
+-----------------------------------
+🏫 MsC Computer engineering student @Unibo
+🔎 Main interests in Embedded Systems and Real-Time Operating System.
+🔭 Working on Microcontrollers and other embedded devices
+🌱 Learning about Real-Operating Systems Internals and Rust Language
+🌟 Main languages: Ada, C/C++, Python 
+💻 Total commits: N/A
+⭐ Total start gained: N/A 
+```
+
+<p align="left">
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="#917b88" src="https://via.placeholder.com/15/917b88/000000?text=+" width="25" height="20" /><img alt="#fdfef6" src="https://via.placeholder.com/15/fdfef6/000000?text=+" width="25" height="20" /><img alt="#91bebb" src="https://via.placeholder.com/15/91bebb/000000?text=+" width="25" height="20" /><img alt="#feb2bf" src="https://via.placeholder.com/15/feb2bf/000000?text=+" width="25" height="20" /><img alt="#95e3ed" src="https://via.placeholder.com/15/95e3ed/000000?text=+" width="25" height="20" />
+</p>
