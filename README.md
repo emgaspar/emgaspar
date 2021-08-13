@@ -29,7 +29,8 @@ emgaspar@github
 
 ```console
 emgaspar@github:~$ fortune
-The only way of discovering the limits of the possible is to venture a little way past them into the impossible.
+The only way of discovering the limits of the possible is to venture a little way past them 
+into the impossible.
                -- Arthur C. Clarke
 ```
 
