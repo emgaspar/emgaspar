@@ -8,10 +8,10 @@ emgaspar@github:~$ ./welcome.sh
 emgaspar@github
 -----------------------------------
 🏫 MsC Computer engineering
-🔎 Main interests in Embedded Systems and RTOS
-🔭 Working on Microcontrollers and other embedded devices
-🌱 Learning about RTOS Internals and Rust Language
-🌟 Main languages: Ada, C/C++, Python 
+🔎 Main interests in GameDev, EmuDev & Real Time
+🔭 Working on some stuff
+🌱 Learning about Rust Language and Retro HW
+🌟 Main languages: C/C++, Python, Ada
 💻 Total commits: N/A
 ⭐ Total start gained: N/A 
 
