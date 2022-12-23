@@ -25,6 +25,8 @@ emgaspar@github
   <img alt="#284778" src="https://via.placeholder.com/15/284778/000000?text=+" width="25" height="20" /><img alt="#5887C0" src="https://via.placeholder.com/15/5887C0/000000?text=+" width="25" height="20" /><img alt="#190C20" src="https://via.placeholder.com/15/190C20/000000?text=+" width="25" height="20" /><img alt="#7D888F" src="https://via.placeholder.com/15/7D888F/000000?text=+" width="25" height="20" /><img alt="#ABC0CC" src="https://via.placeholder.com/15/ABC0CC/000000?text=+" width="25" height="20" />
 </p>
 
+
+
 ```console
 emgaspar@github:~$ fortune
 The only way of discovering the limits of the possible is to venture a little way past them 
