@@ -12,8 +12,7 @@ emgaspar@github
 🔭 Working on some stuff
 🌱 Learning about Rust Language and Retro HW
 🌟 Main languages: C/C++, Python, Ada
-💻 Total commits: N/A
-⭐ Total start gained: N/A 
+
 
 
 
